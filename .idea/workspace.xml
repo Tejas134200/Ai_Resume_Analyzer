@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ab77b87-061b-4b2f-b58b-fa306f60003a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/icons/ats-bad.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/ats-good.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/ats-warning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/back.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/check.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/cross.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/info.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/pin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/icons/warning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/bg-auth.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/bg-main.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/bg-small.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/pdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/resume-scan-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/resume-scan.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/resume_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/resume_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/resume_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/pdf.worker.min.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/logo-light.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/welcome/welcome.tsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +21,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tejas134200&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tejas134200/Ai_Resume_Analyzer&quot;,
+    &quot;accountId&quot;: &quot;be9ce75b-8155-4f73-8d37-4bb20bbc538d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="304sqSiYNklbrj4jVcfBRlhlUKY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,8 +43,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/pokal/Desktop/Resume_P/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -79,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752898371962</updated>
-      <workItem from="1752898375253" duration="750000" />
+      <workItem from="1752898375253" duration="1304000" />
+      <workItem from="1752912659763" duration="10215000" />
     </task>
     <servers />
   </component>
