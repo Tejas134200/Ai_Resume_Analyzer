@@ -4,6 +4,7 @@ import {usePuterStore} from "~/lib/puter";
 import Summary from "~/components/Summary";
 import ATS from "~/components/ATS";
 import Details from "~/components/Details";
+import Navbar from "~/components/Navbar";
 
 export const meta = () => ([
     { title: 'Resumind | Review ' },
@@ -54,7 +55,9 @@ const Resume = () => {
     }, [id]);
 
     return (
+
         <main className="!pt-0">
+            <Navbar />
             <nav className="resume-nav">
                 <Link to="/" className="back-button">
                     <img src="/icons/back.svg" alt="logo" className="w-2.5 h-2.5" />
